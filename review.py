@@ -18,3 +18,6 @@
 # Remember how range can be used to create the list [2,4,6,8]
 # When complete, commit to github and submit a pull request!
 
+myList = [2,4,6,8,"who do we appriciate"]
+for x in myList:
+    print x
